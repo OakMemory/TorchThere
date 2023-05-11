@@ -1,6 +1,6 @@
-# JavaPaperTemplate
+# TorchThere!
 
-The plugin develop template of paper spigot using Java language.
+By consuming the torches in your inventory, torches will be placed in the locations where the arrows are shot!
 
 ## How to build?
 
