@@ -1,4 +1,4 @@
-rootProject.name = "java-paper-template"
+rootProject.name = "TorchThere"
 
 pluginManagement {
     repositories {

@@ -1,6 +1,6 @@
-name: KotlinPaperTemplate
+name: TorchThere
 version: '${version}'
-main: dev.krysztal.demo.DemoMain
+main: dev.krysztal.torch.TorchThereMain
 api-version: 1.19
-prefix: KotlinPaperTemplate
-description: The develop template of paper spigot using Kotlin language.
+prefix: TorchThere
+description: A plugin that allows you to stick a torch in the place where you shoot.
