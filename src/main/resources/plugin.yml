@@ -1,0 +1,6 @@
+name: KotlinPaperTemplate
+version: '${version}'
+main: dev.krysztal.demo.DemoMain
+api-version: 1.19
+prefix: KotlinPaperTemplate
+description: The develop template of paper spigot using Kotlin language.
